@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "SLIMANIAFK",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "SLimaniGAJ.aternos.me",
-    "port": 45791,
+    "ip": "HypixelAJ.aternos.me:25010",
+    "port": 25010,
     "version": "",
     "try-creative": false
   },
